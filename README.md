@@ -1,5 +1,7 @@
 # CSCI-571---Web-Technologies
 
+# [Course Website](https://csci571.com)
+
 Project  | Tech Stack | Video Link | Score | PDF
 ------------- | ------------- | ------------- | ------------- | -------------
 Static Web Page | HTML, CSS | [Static Web App Link](https://youtu.be/avB4zk-Jh7g) | 10/10 | [HW3](https://github.com/arshiashaik/CSCI-571---Web-Technologies/blob/main/HW3_Description.pdf)
